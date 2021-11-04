@@ -1,0 +1,65 @@
+#scoreKeeper {
+    color: blue;
+} 
+
+.body {
+    text-align: center;
+margin-top: 220px; 
+justify-content: center;
+
+
+}
+
+
+#btns{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+#inputText{
+    width: 300px;
+}
+
+#btn3{
+    background-color: red;
+}
+
+.green{
+color: green;
+}
+
+/* .all::before {
+    background-image: url("./image/arsenal.jpg");
+    background-size: cover;
+    position: absolute;
+    content: "";
+    opacity: 0.75;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+
+} */
+
+
+
+ /* .hero {
+    position: relative; 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero::before {    
+      content: "";
+      background-image: url('https://placekitten.com/1200/800');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.75;
+} */
